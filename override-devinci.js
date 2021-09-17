@@ -1,3 +1,8 @@
 document.getElementsByTagName('body')[0].classList.add('override')
 
-console.log("hello");
+
+const images = document.querySelectorAll('img');
+
+
+
+images.style.display = 'none';
