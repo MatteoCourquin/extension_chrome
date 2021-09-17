@@ -1,4 +1,4 @@
-.override{
+.override :not(background){
     background: blue;
     display : none; 
 }
