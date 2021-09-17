@@ -2,3 +2,12 @@
     background: blue;
     display : none; 
 }
+
+h1{
+    position: relative;
+    margin-right: auto;
+    margin-left: auto;
+    color: red;
+    top: 20%;
+    font-size: 50px;
+}
